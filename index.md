@@ -1,6 +1,6 @@
-## Welcome to The Puzzle
-An epic 10-step adventure!
-Coming Soon.
+## <p style="text-align: center;">Welcome to The Puzzle</p>
+<p style="text-align: center;">An epic 10-step adventure!</p>
+<p style="text-align: center;">Coming Soon.</p>
 
 ## Leaderboard
 1. Unknown - 0 Points
