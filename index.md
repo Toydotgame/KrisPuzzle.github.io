@@ -1,3 +1,3 @@
 ## Welcome to The Puzzle
 
-                Coming Soon
+<p style="text-align: center;">Centered text</p>
