@@ -1,4 +1,4 @@
-## <p style="text-align: center;">Welcome to The Puzzle</p>
+## Welcome to The Puzzle
 <p style="text-align: center;">An epic 10-step adventure!</p>
 <p style="text-align: center;">Coming Soon.</p>
 
